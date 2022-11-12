@@ -1,9 +1,9 @@
 [general]
-name=Minimal
-description=Minimal plugin
-about=About this minimal plugin
+name=EPQS
+description=Adds 'Get Elevation' action to right-click menu. Uses the USGS Elevation Point Query Service.
+about=Adds 'Get Elevation' action to right-click menu. Uses the USGS Elevation Point Query Service.
 version=1.0
 qgisMinimumVersion=3.0
-author=Martin Dobias
-email=wonder.sk@gmail.com
-repository=URL to the code repository
+author=Elliot Bradbury
+email=
+repository=https://github.com/ebradbury/qgis-epqs-plugin
